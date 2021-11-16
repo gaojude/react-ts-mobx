@@ -1,4 +1,4 @@
-A React App example in TypeScript that uses MobX for state management
+A React App example in TypeScript that uses MobX for state management.
 
 - React
 - TypeScript
